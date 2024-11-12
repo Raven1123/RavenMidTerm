@@ -60,7 +60,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['signup'])) {
                 text-align: center;
             }
             h2 {
-                color: #444;
+                color: #000000;
                 margin-bottom: 15px;
             }
 
