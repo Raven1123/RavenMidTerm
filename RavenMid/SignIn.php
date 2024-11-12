@@ -81,7 +81,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['signin'])) {
     margin-right: 20px; 
 }
         h2 {
-            color: #444;
+            color: #000000;
             margin-bottom: 15px;
         }
         input[type="email"], input[type="password"] {
