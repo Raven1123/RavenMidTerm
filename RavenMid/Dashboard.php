@@ -47,7 +47,7 @@ if (!isset($_SESSION['user'])) {
 
         a {
             font-size: 1.1rem;
-            color: #4CAF50;
+            color: #0000FF;
             text-decoration: none;
             font-weight: bold;
         }
